@@ -8,4 +8,6 @@ public class Main23{
         stack.push("doing");
         stack.push("stack");
         stack.push("datatype");
+        stack.push("datatype1");
+        
         System.out.println(stack);}}

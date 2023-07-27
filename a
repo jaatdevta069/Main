@@ -1,0 +1,169 @@
+[33mcommit f01acf00fb8c49384d6ea235335f109a0b8e3868[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jaatdevta069 <jaatdevta1105@gmail.com>
+Date:   Thu Jul 27 22:31:30 2023 +0530
+
+            modified:   .vscode/launch.json
+            modified:   Drum.java
+            new file:   Main23.java
+            modified:   out/production/Main1/aa.js
+            deleted:    Main
+
+[33mcommit d17f16835428b92a445f114a3df65191056734b9[m
+Author: Sonveer Singh <92923051+jaatdevta069@users.noreply.github.com>
+Date:   Sun May 28 00:36:06 2023 +0530
+
+    Delete desktop.ini
+
+[33mcommit 9f62094f2a262f9ec0b1bf38af9df9d0ea5988ea[m
+Author: jaatdevta069 <jaatdevta@gmail.com>
+Date:   Sun May 28 00:27:54 2023 +0530
+
+            new file:   MongodbPlayground.js
+
+[33mcommit 24b5ea00a2442e09c9d993da786b80d682e5f9f7[m
+Author: jaatdevta069 <jaatdevta@gmail.com>
+Date:   Sun May 28 00:26:48 2023 +0530
+
+            new file:   .idea/.gitignore
+            new file:   .idea/codeStyles/Project.xml
+            new file:   .idea/codeStyles/codeStyleConfig.xml
+            new file:   .idea/codeStyles/desktop.ini
+            new file:   .idea/desktop.ini
+            new file:   .idea/libraries/KotlinJavaRuntime.xml
+            new file:   .idea/libraries/desktop.ini
+            new file:   .idea/libraries/groovy_4_0_0.xml
+            new file:   .idea/libraries/javax_servlet_3_0.xml
+            new file:   .idea/misc.xml
+            new file:   .idea/modules.xml
+            new file:   .vscode/desktop.ini
+            new file:   .vscode/settings.json
+            new file:   .vscode/tasks.json
+            new file:   Drum.java
+            new file:   Main
+            new file:   desktop.ini
+            new file:   file.text
+            new file:   file1.text
+            new file:   lib/desktop.ini
+            new file:   lib/groovy-4.0.0-sources.jar
+            new file:   lib/groovy-4.0.0.jar
+            new file:   lib/groovy-ant-4.0.0-sources.jar
+            new file:   lib/groovy-ant-4.0.0.jar
+            new file:   lib/groovy-astbuilder-4.0.0-sources.jar
+            new file:   lib/groovy-astbuilder-4.0.0.jar
+            new file:   lib/groovy-cli-commons-4.0.0-sources.jar
+            new file:   lib/groovy-cli-commons-4.0.0.jar
+            new file:   lib/groovy-cli-picocli-4.0.0-sources.jar
+            new file:   lib/groovy-cli-picocli-4.0.0.jar
+            new file:   lib/groovy-console-4.0.0-sources.jar
+            new file:   lib/groovy-console-4.0.0.jar
+            new file:   lib/groovy-contracts-4.0.0-sources.jar
+            new file:   lib/groovy-contracts-4.0.0.jar
+            new file:   lib/groovy-datetime-4.0.0-sources.jar
+            new file:   lib/groovy-datetime-4.0.0.jar
+            new file:   lib/groovy-dateutil-4.0.0-sources.jar
+            new file:   lib/groovy-dateutil-4.0.0.jar
+            new file:   lib/groovy-docgenerator-4.0.0-sources.jar
+            new file:   lib/groovy-docgenerator-4.0.0.jar
+            new file:   lib/groovy-ginq-4.0.0-sources.jar
+            new file:   lib/groovy-ginq-4.0.0.jar
+            new file:   lib/groovy-groovydoc-4.0.0-sources.jar
+            new file:   lib/groovy-groovydoc-4.0.0.jar
+            new file:   lib/groovy-groovysh-4.0.0-sources.jar
+            new file:   lib/groovy-groovysh-4.0.0.jar
+            new file:   lib/groovy-jmx-4.0.0-sources.jar
+            new file:   lib/groovy-jmx-4.0.0.jar
+            new file:   lib/groovy-json-4.0.0-sources.jar
+            new file:   lib/groovy-json-4.0.0.jar
+            new file:   lib/groovy-jsr223-4.0.0-sources.jar
+            new file:   lib/groovy-jsr223-4.0.0.jar
+            new file:   lib/groovy-macro-4.0.0-sources.jar
+            new file:   lib/groovy-macro-4.0.0.jar
+            new file:   lib/groovy-macro-library-4.0.0-sources.jar
+            new file:   lib/groovy-macro-library-4.0.0.jar
+            new file:   lib/groovy-nio-4.0.0-sources.jar
+            new file:   lib/groovy-nio-4.0.0.jar
+            new file:   lib/groovy-servlet-4.0.0-sources.jar
+            new file:   lib/groovy-servlet-4.0.0.jar
+            new file:   lib/groovy-sql-4.0.0-sources.jar
+            new file:   lib/groovy-sql-4.0.0.jar
+            new file:   lib/groovy-swing-4.0.0-sources.jar
+            new file:   lib/groovy-swing-4.0.0.jar
+            new file:   lib/groovy-templates-4.0.0-sources.jar
+            new file:   lib/groovy-templates-4.0.0.jar
+            new file:   lib/groovy-test-4.0.0-sources.jar
+            new file:   lib/groovy-test-4.0.0.jar
+            new file:   lib/groovy-test-junit5-4.0.0-sources.jar
+            new file:   lib/groovy-test-junit5-4.0.0.jar
+            new file:   lib/groovy-testng-4.0.0-sources.jar
+            new file:   lib/groovy-testng-4.0.0.jar
+            new file:   lib/groovy-toml-4.0.0-sources.jar
+            new file:   lib/groovy-toml-4.0.0.jar
+            new file:   lib/groovy-typecheckers-4.0.0-sources.jar
+            new file:   lib/groovy-typecheckers-4.0.0.jar
+            new file:   lib/groovy-xml-4.0.0-sources.jar
+            new file:   lib/groovy-xml-4.0.0.jar
+            new file:   out/desktop.ini
+            new file:   out/production/Main1/Boo.class
+            new file:   out/production/Main1/Calculator.class
+            new file:   out/production/Main1/ClientRequest.class
+            new file:   out/production/Main1/Collection.class
+            new file:   out/production/Main1/DynamicArray.class
+            new file:   out/production/Main1/GFG.class
+            new file:   out/production/Main1/LL.class
+            new file:   out/production/Main1/Lodu.class
+            new file:   out/production/Main1/Main.class
+            new file:   out/production/Main1/Middle$Node.class
+            new file:   out/production/Main1/Middle.class
+            new file:   out/production/Main1/Mmm.class
+            new file:   out/production/Main1/No.class
+            new file:   out/production/Main1/Node.class
+            new file:   out/production/Main1/Pad.class
+            new file:   out/production/Main1/Pair.class
+            new file:   out/production/Main1/Reader.class
+            new file:   out/production/Main1/Search.class
+            new file:   out/production/Main1/SearchQuery.class
+            new file:   out/production/Main1/SearchServer.class
+            new file:   out/production/Main1/Solution.class
+            new file:   out/production/Main1/Solution1.class
+            new file:   out/production/Main1/Songs.class
+            new file:   out/production/Main1/Sonu$KK.class
+            new file:   out/production/Main1/Sonu$LL.class
+            new file:   out/production/Main1/Sonu.class
+            new file:   out/production/Main1/Vegetable.class
+            new file:   out/production/Main1/aa.js
+            new file:   out/production/Main1/bhosad.class
+            new file:   out/production/Main1/check.class
+            new file:   out/production/Main1/comparebyno.class
+            new file:   out/production/Main1/desktop.ini
+            new file:   out/production/Main1/ex1.class
+            new file:   out/production/Main1/ex2.class
+            new file:   out/production/Main1/kk.class
+            new file:   out/production/Main1/ma.html
+            new file:   out/production/Main1/pattern.class
+            new file:   out/production/desktop.ini
+            new file:   src/Boo.java
+            new file:   src/Calculator.java
+            new file:   src/DynamicArray.java
+            new file:   src/LL.java
+            new file:   src/Main.java
+            new file:   src/Middle.java
+            new file:   src/Mmm.java
+            new file:   src/No.java
+            new file:   src/Node.java
+            new file:   src/Pad.java
+            new file:   src/Reader.java
+            new file:   src/Songs.java
+            new file:   src/Vegetable.java
+            new file:   src/desktop.ini
+            new file:   src/kk.java
+            new file:   src/pattern.java
+            modified:   .idea/codeStyles/desktop.ini
+            modified:   .idea/desktop.ini
+            modified:   .idea/libraries/desktop.ini
+            modified:   .vscode/desktop.ini
+            modified:   desktop.ini
+            modified:   lib/desktop.ini
+            modified:   out/desktop.ini
+            modified:   out/production/Main1/desktop.ini
+            modified:   out/production/desktop.ini
+            modified:   src/desktop.ini
